@@ -19,12 +19,6 @@
 
 </br>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/l3JDLY0bJA5N6TLqM/giphy.gif" width="600" height="300"/>
-</div>
-
-</br>
-
 ---
 
 ### About Me :
