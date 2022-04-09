@@ -94,6 +94,8 @@
 
 ### My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vovk1805&theme=github-dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vovk1805&theme=github-dark&date_format=j%20M%5B%20Y%5D)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vovk1805&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vovk1805)
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=vovk1805&count_private=true&show_icons=true&theme=cobalt)
