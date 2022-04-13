@@ -95,4 +95,4 @@
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vovk1805&theme=github-dark&date_format=j%20M%5B%20Y%5D)
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=vovk1805&count_private=true&show_icons=true&theme=cobalt)
+<!-- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=vovk1805&count_private=true&show_icons=true&theme=cobalt) -->
