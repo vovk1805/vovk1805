@@ -23,9 +23,9 @@
 
 ### About Me :
 
-• Software Engineer with 6+ years of experience. I know how to build complicated, robust, maintainable, and extendable high-load systems. Currently, I'm working as a Nodejs backend developer.
-• Interested in CI/CD, and DevOps practices.
-• Huge fan of unit/integration testing.
+- Software Engineer with 6+ years of experience. I know how to build complicated, robust, maintainable, and extendable high-load systems. Currently, I'm working as a Nodejs backend developer.
+- Interested in CI/CD, and DevOps practices.
+- Huge fan of unit/integration testing.
 
 ---
 
