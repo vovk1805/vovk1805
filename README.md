@@ -11,11 +11,7 @@
 
 ### About Me :
 
-- Software Engineer with 6+ years of experience. I know how to build complicated, robust, maintainable, and extendable high-load systems. Currently, I'm working as a Nodejs backend developer.
-- Interested in CI/CD, and DevOps practices.
-- Huge fan of unit/integration testing.
-
----
+I am a software engineer with `6+ years of experience` in the software industry. Since `2018` I’ve worked primarily as a `Nodejs` engineer. Also, I have an experience in front-end development `(React, Vue)`. I know how to build complicated, robust, maintainable, and extendable high-load systems. I have a strong comprehension of `OOP`, `SOLID`, and `GRASP` principles. In my work, I use `GoF` Design Patterns, `DDD`, `DI`, and `clean architecture`. I’m interested in `CI/CD` `DevOps` practices, and `cloud infrastructure`. I’m a huge fan of `unit/integration` testing. I’ve worked with both `SQL` and `NoSQL` databases, and Google (`GCP`) and Amazon (`AWS`) cloud vendors. Also, I have contributed to `open-source` projects.
 
 ### Technologies and tools stack:
 
